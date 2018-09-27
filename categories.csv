@@ -1,0 +1,9 @@
+;name;description
+0;Restaurantes y comidas;Comidas hecha fuera de casa, restaurantes comida, desayunos y cenas
+1;Transportes Rutinarios;Gatos de transportes publicos y demás gastos incluidos en la rutina (RENFE, TMB, Taxi. etc)
+2;Trabajo;Ingresos y gastos (¿?) incluidos en el trabajo
+3;Transportes;Gastos de transportes hechos por ocio, poner gasolina al coche, road trip, etc
+4;Ocio;"Precio de actividades ""ludicas"": discotecas, cerveza con los amigos, escape rooms, etc."
+5;Inversiones;Gastos y beneficios derivados de la inversión (Falta añadir una modulo con llamadas a API de Crytpos y Acciones)
+6;Compras y Caprichos;Gastos de compras derivadas de caprichos, Amazon, GearBest, etc.
+7;Misc;Miscelanea, gastos antiguos que no se donde vienen. O retiradas de cajero.
